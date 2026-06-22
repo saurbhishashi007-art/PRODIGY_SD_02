@@ -31,3 +31,6 @@ This is a Java-based Number Guessing Game that generates a random number and cha
 
 Saurbhi Shashi
 
+## Output Screenshot
+Output Screenshot added
+

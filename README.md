@@ -27,10 +27,14 @@ This is a Java-based Number Guessing Game that generates a random number and cha
 4. Continue guessing until the correct number is found.
 5. View the total number of attempts taken.
 
+
+## Screenshot
+Added project output screenshot
+
+
 ## Author
 
 Saurbhi Shashi
 
-## Output Screenshot
-Output Screenshot added
+
 
